@@ -1,0 +1,7 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+https://www.w3schools.com/html/html_elements.asp,326,7145,65,36798,7218.14,23.926%,2.01435,79.31,6.02,40317.8
+https://www.w3schools.com/html/html_attributes.asp,300,7182,45,56944,7715.69,14.667%,2.07452,38.39,6.79,18951.8
+https://www.w3schools.com/html/html_colors.asp,283,6169,359,47327,5871.38,100.000%,1.99010,56.45,7.56,29047.9
+https://www.w3schools.com/html/html_css.asp,248,5469,10,39339,6614.47,100.000%,1.91670,35.77,6.29,19108.4
+https://www.w3schools.com/html/html_tables.asp,234,5040,392,36110,6045.54,100.000%,1.93154,36.70,6.33,19458.9
+TOTAL,1391,6301,10,56944,6836.75,63.767%,8.58960,219.16,28.48,26126.5
